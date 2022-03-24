@@ -140,7 +140,7 @@ Prototyping
 Mechanics, Dynamics, and Aesthetics: The MDA Framework
 {{< tdclose >}}
 {{< tdopen >}}
-Hunicke, Robin, Marc LeBlanc, and Robert Zubek. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_MDA: A Formal Approach to Game Design and Game Research_ (PDF)](http://www.cs.northwestern.edu/~hunicke/MDA.pdf). 2004.
+Hunicke, Robin, Marc LeBlanc, and Robert Zubek. [_MDA: A Formal Approach to Game Design and Game Research_ (PDF)](http://www.cs.northwestern.edu/~hunicke/MDA.pdf). 2004.
 {{< tdclose >}}
 {{< tdopen >}}
 [Session 4: Mechanics, Dynamics, Aesthetics - The MDA Framework]({{< baseurl >}}/resources/session-4-mechanics-dynamics-aesthetics-the-mda-framework)
@@ -463,11 +463,11 @@ Simulation and Assignment 3
 
 [_Innovation_](http://boardgamegeek.com/boardgame/63888/innovation), Asmadi Games, 2010. ASIN: B004196Y06
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Raccoon is at the Candy Shoppe_ (PDF - 3.1MB)](http://playdatenh.files.wordpress.com/2014/01/raccoon-pnp5.pdf), Games by Play Date, 2014.
+[_The Raccoon is at the Candy Shoppe_ (PDF - 3.1MB)](http://playdatenh.files.wordpress.com/2014/01/raccoon-pnp5.pdf), Games by Play Date, 2014.
 
 [_Slash: Romance Without Boundaries_](http://boardgamegeek.com/boardgame/148209/slash-romance-without-boundaries), Games by Play Date, 2013.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Element 313_ (PDF - 13.7MB)](http://playdatenh.files.wordpress.com/2013/12/313-pnp-dec20131.pdf), Games by Play Date, 2013.
+[_Element 313_ (PDF - 13.7MB)](http://playdatenh.files.wordpress.com/2013/12/313-pnp-dec20131.pdf), Games by Play Date, 2013.
 
 
 {{< tdclose >}}

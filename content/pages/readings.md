@@ -84,7 +84,7 @@ Prototyping
 Mechanics, Dynamics, and Aesthetics: The MDA Framework
 {{< tdclose >}}
 {{< tdopen >}}
-Hunicke, Robin, Marc LeBlanc, and Robert Zubek. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_MDA: A Formal Approach to Game Design and Game Research_ (PDF)](http://www.cs.northwestern.edu/~hunicke/MDA.pdf). 2004.
+Hunicke, Robin, Marc LeBlanc, and Robert Zubek. [_MDA: A Formal Approach to Game Design and Game Research_ (PDF)](http://www.cs.northwestern.edu/~hunicke/MDA.pdf). 2004.
 {{< tdclose >}}
 
 {{< trclose >}}
