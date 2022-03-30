@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 58bbf1fb-ceed-0939-abc9-3070d8f6b884
 resourcetype: Image
 title: CMS-608_stat-students.png
 uid: 95996aea-9540-ebca-066b-c8d9b3ff26de

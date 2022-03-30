@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Game board setup for Journey to the Top of the World, showing game pieces
     and obstacles.
+parent_uid: 0c532bff-cfdf-6a8c-2a45-eb1d552c2516
 resourcetype: Image
 title: journey.jpg
 uid: f0fb5e8c-c16e-2b53-a8c8-9dba44c71231

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: 'Game board setup for Roman Conquest: The First Triumvirate, showing
     pieces and dice.'
+parent_uid: 0c532bff-cfdf-6a8c-2a45-eb1d552c2516
 resourcetype: Image
 title: triumverate.jpg
 uid: 8b88f667-e793-a9e5-06f4-cafad7f8e613

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 58bbf1fb-ceed-0939-abc9-3070d8f6b884
 resourcetype: Image
 title: CMS-608_classroom-1.jpg
 uid: 651865e1-057a-12ef-a784-7b6dfd0c6b88

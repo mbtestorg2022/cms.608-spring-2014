@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Game play setup for Mutiny, with pieces and board layout.
+parent_uid: 0c532bff-cfdf-6a8c-2a45-eb1d552c2516
 resourcetype: Image
 title: mutiny.jpg
 uid: a2ae1f7c-efa1-8277-8624-307b19588dc3

@@ -28,7 +28,7 @@ Because this class emphasizes participation and teamwork, and because you will h
 
 The class involves lab sessions in which students will play a prescribed set of games relevant to the course. Board games and card games are also available for students to check out from the course instructors for a week. Students enrolling for graduate credit (CMS.864) are required to learn the rules of the prescribed games ahead of each lab session and be ready to teach the games to the rest of the class. **All students (CMS.608 or CMS.864) should be studying the rules of as many games as possible to gain more insight as to how to present rules in a clear and concise manner.**
 
-While this class does not emphasize essay writing, **game rules and text are expected to be clear, spell­checked, and demonstrate a high proficiency in written English**. Consult the [_Written Rules Style Guide_ (PDF)](/courses/comparative-media-studies-writing/cms-608-game-design-spring-2014/Syllabus/MITCMS_608S14_WrittenGuide.pdf) for more information.
+While this class does not emphasize essay writing, **game rules and text are expected to be clear, spell­checked, and demonstrate a high proficiency in written English**. Consult the {{% resource_link "c2ac8e16-ad06-0f36-e975-5db63310853b" "_Written Rules Style Guide_ (PDF)" %}} for more information.
 
 ### Suggested Textbooks
 
